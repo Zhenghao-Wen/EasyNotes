@@ -24,7 +24,7 @@ Lightweight android notes app with Material You.
 </div>
 
 
-[[Build debug apk](https://github.com/Zhenghao-Wen/DarQ/actions/workflows/android.yml/badge.svg)](https://github.com/Zhenghao-Wen/DarQ/actions/workflows/android.yml)
+[[Build debug apk](https://github.com/Zhenghao-Wen/EasyNotes/actions/workflows/android.yml/badge.svg)](https://github.com/Zhenghao-Wen/EasyNotes/actions/workflows/android.yml)
 
 
 --- 
